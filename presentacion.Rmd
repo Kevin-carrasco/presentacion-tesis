@@ -51,6 +51,12 @@ style_duo_accent_inverse(primary_color = "#035AA6", secondary_color = "#03A696")
 
 ---
 
+* Cambios en la aceptación de grupos en el vecindario en población adulta
+
+.center[![:scale 75%](graphs/wvs.png)]
+
+---
+
 ## Antecedentes teóricos y empíricos
 
 .center[![:scale 150%](images/modelo-teorico.png)]
