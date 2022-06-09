@@ -1,6 +1,6 @@
 ---
 title: ".large[Aceptar la diversidad en el vecindario]"
-subtitle: ".medium[**Procesos de socialización política de actitudes en jóvenes estudiantes chilenos**]"
+subtitle: ".medium[**Procesos de socialización política de actitudes hacia la diversidad social en jóvenes estudiantes chilenos**]"
 author: "Kevin Carrasco Quintanilla"
 institute: ".small[**Universidad de Chile**]"
 date: ".small[Jueves 6 de junio de 2022]"
@@ -11,6 +11,7 @@ output:
       highlightStyle: solarized-dark
       highlightLines: true
       countIncrementalSlides: false
+      beforeInit: "xaringan_custom/macros.js"
 ---
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
@@ -20,6 +21,8 @@ style_duo_accent_inverse(primary_color = "#035AA6", secondary_color = "#03A696")
 
 ## Motivaciones e intereses
 
+--
+
 * <p style="text-align: justify;"> ¿Por qué estudiar los procesos de socialización? </p>
 
 * <p style="text-align: justify;"> Educación para la Ciudadanía </p>
@@ -28,6 +31,8 @@ style_duo_accent_inverse(primary_color = "#035AA6", secondary_color = "#03A696")
 
 ## Contexto
 
+--
+
 * <p style="text-align: justify;"> El incremento de la diversidad social es un desafío para los Estados-nación a nivel global </p>
 
 * <p style="text-align: justify;"> Desafío específico para los sistemas educacionales </p>
@@ -35,3 +40,44 @@ style_duo_accent_inverse(primary_color = "#035AA6", secondary_color = "#03A696")
 * <p style="text-align: justify;"> Aceptar la diversidad en el vecindario. </p>
 
 ---
+
+## Antecedentes teóricos y empíricos
+
+.center[![:scale 150%](images/modelo-teorico.png)]
+
+---
+
+```{r xaringan-panelset, echo=FALSE}
+library(xaringanExtra)
+xaringanExtra::use_panelset()
+```
+.panelset[
+.panel[.panel-name[Estudiantes]
+.center[![:scale 150%](graphs/div_est.png)]
+]
+.panel[.panel-name[Apoderados]
+.center[![:scale 150%](graphs/div_apod.png)]
+]
+]
+---
+
+.panelset[
+.panel[.panel-name[Estudiantes]
+.center[![:scale 150%](graphs/ind_est.png)]
+]
+.panel[.panel-name[Apoderados]
+.center[![:scale 150%](graphs/ind_apod.png)]
+]
+]
+
+---
+
+.large[Aceptar la diversidad en el vecindario]
+
+.medium[**Procesos de socialización política de actitudes hacia la diversidad social en jóvenes estudiantes chilenos**]
+
+Kevin Carrasco Quintanilla
+
+.small[**Universidad de Chile**]
+
+.small[Jueves 6 de junio de 2022]
