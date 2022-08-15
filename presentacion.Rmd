@@ -73,37 +73,43 @@ Kevin Carrasco Quintanilla
 
 ---
 
-* Cambios en la aceptación de grupos en el vecindario en población adulta
+### Aceptar la diversidad en el vecindario
 
-.center[![:scale 75%](graphs/wvs.png)]
+* Identidades y Cohesión social: la identidad social define y evalúa el autoconcepto de uno mismo y cómo será tratado y pensado por los demás. Al compararse, se preocupan de que su propio grupo sea distintivo, diferenciado y evaluado más favorablemente.
+
+* Desigualdades interaccionales: Se constituye al *otro* como una amenaza y adversario, quebrando la noción de espacio común y generando un marco de confrontación y disputa.
+
+* Cierre social entre sectores o clases a partir de identidades: Se establecen barreras entre sectores o clases a partir de la construcción de identidades, comunidades y la monopolización de oportunidades con el fin de excluir a otras personas de ese círculo.
+
+La **discriminación** como una práctica diferenciada basada en prejuicios e ideologías racistas sobre la superioridad de una mayoría y la inferioridad de una minoría. No obstante, reducir o intensificar ciertas actitudes tendrá poco efecto los prejuicios e ideologías, por lo que **el foco debe estar en los mecanismos sociales que los generan**.
 
 ---
 
 ### Procesos de socialización política de actitudes
 
+--
+
 #### Socialización política familiar
 
-* Condiciones socioeconómicas
+* Condiciones socioeconómicas objetivas de la familia en el proceso de adquisición de valores y prácticas democráticas
 
-* Actitudes de los padres
+* Teoría del aprendizaje social y transmisión intergeneracional de actitudes
 
 --
 
 #### Socialización política en la escuela
 
-* Conocimiento cívico y funcionamiento de la sociedad
+* Conocimiento cívico y funcionamiento de la sociedad: socialización de valores y normas comunes
 
-* Espacios de discusión y debate en las salas de clase
+* Espacios de discusión y debate en las salas de clase: exposición al mundo real de los problemas sociales y políticos
 
 --
 
-#### Implicancias específicas de los territorios
+#### Implicancias del vecindario en los procesos de socialización
 
-* Cantidad de personas que se identifican con una etnia
+* Segregación urbana en el contexto chileno
 
-* Cantidad de personas migrantes
-
-* Promedio de años de escolaridad
+* Competencia en el mercado laboral y en el acceso a recursos culturales y sociales
 
 ---
 ## Resumen de la investigación
