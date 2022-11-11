@@ -216,37 +216,17 @@ Promedio de escolaridad
 ]
 
 ---
+# Resultados
+---
 
-.pull-left[
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-## Resultados
-]
-.pull-right[
-<br>
-<br>
-.center[![:scale 100%](graphs/plot1.png)]
-]
+
+.center[![:scale 58%](graphs/plot1.png)]
 
 ---
-.pull-left[
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-## Resultados
-]
-.pull-right[
-<br>
-<br>
-.center[![:scale 100%](graphs/interac.png)]
-]
+
+
+.center[![:scale 58%](graphs/interac.png)]
+
 ---
 
 # Discusión
