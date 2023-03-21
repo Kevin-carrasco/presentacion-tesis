@@ -1,0 +1,355 @@
+---
+title: "Aceptar la diversidad en el vecindario"
+subtitle: "**Procesos de socializacion politica de actitudes hacia la diversidad social en jovenes estudiantes chilenos**"
+author: "Kevin Carrasco Quintanilla"
+institute: ".small[**Universidad de Chile**]"
+date: ".small[Jueves 6 de junio de 2022]"
+output:
+  xaringan::moon_reader:
+    css: ["xaringan-themer.css"]
+    seal: false
+    nature:
+      highlightStyle: solarized-dark
+      highlightLines: true
+      countIncrementalSlides: false
+      beforeInit: "xaringan_custom/macros.js"
+      ratio: '16:9'
+---
+class: middle title-slide
+
+```{r xaringanExtra, echo = FALSE}
+  xaringanExtra::use_progress_bar(color = "red", location = c("top"))
+```
+
+.pull-left[
+
+
+.center[
+![:scale 100%](images/mcs.png)
+
+]
+]
+
+
+
+.pull-right[
+
+.content-box-purple[
+.center[
+
+## Aceptar la diversidad en el vecindario
+]
+
+----
+.center[
+#### Procesos de Socialización política de actitudes hacia la diversidad social en estudiantes chilenos
+]
+]
+]
+
+.center[
+
+### Kevin Carrasco Quintanilla
+
+Examen para optar al título de Sociólogo y Magíster en Ciencias Sociales
+
+Profesor guía: Juan Carlos Castillo
+
+Profesores informantes: Nicolás Angelcos & 
+Pablo Pérez
+.red[ 30 de Marzo 2023
+]
+
+]
+---
+
+layout: true
+class: animated, fadeIn
+
+---
+## Contexto
+
+--
+
+### Educación ciudadana y Políticas educativas
+
+* Educación ciudadana en Chile
+
+* Nueva ley de Formación Ciudadana 2018
+
+--
+
+### Esta investigación
+
+* El incremento de la diversidad social es un desafío para los Estados-nación a nivel global
+
+* Desafío específico para los sistemas educacionales
+
+* Aceptar la diversidad en el vecindario.
+
+---
+class: inverse, center, middle
+
+## .yellow[¿En qué medida los distintos procesos de socialización son capaces de influir en las actitudes hacia la diversidad en su vecindario de las y los estudiantes chilenos?
+]
+---
+
+### Aceptar la diversidad en el vecindario
+
+* Identidades y Cohesión social: la identidad social define y evalúa el autoconcepto de uno mismo y cómo será tratado y pensado por los demás. Al compararse, se preocupan de que su propio grupo sea distintivo, diferenciado y evaluado más favorablemente.
+
+--
+
+* Desigualdades interaccionales: Se constituye al *otro* como una amenaza y adversario, quebrando la noción de espacio común y generando un marco de confrontación y disputa.
+
+--
+
+* Cierre social entre sectores o clases a partir de identidades: Se establecen barreras entre sectores o clases a partir de la construcción de identidades, comunidades y la monopolización de oportunidades con el fin de excluir a otras personas de ese círculo.
+
+--
+
+La **discriminación** como una práctica diferenciada basada en prejuicios e ideologías racistas sobre la superioridad de una mayoría y la inferioridad de una minoría. No obstante, reducir o intensificar ciertas actitudes tendrá poco efecto los prejuicios e ideologías, por lo que **el foco debe estar en los mecanismos sociales que los generan**.
+
+---
+
+## Procesos de socialización política de actitudes
+
+--
+
+### Socialización política familiar
+
+* Condiciones socioeconómicas objetivas de la familia en el proceso de adquisición de valores y prácticas democráticas.
+
+* Teoría del aprendizaje social y transmisión intergeneracional de actitudes.
+
+<br>
+--
+**H1: Estudiantes que provienen de familias con mayores recursos socioeconómicos poseen un mayor grado de aceptación de la diversidad en sus vecindarios, manteniendo el resto de las variables constantes.**
+
+**H2: Estudiantes que provengan de familias en que sus padres acepten en mayor medida que distintos grupos sociales vivan en sus vecindarios, poseerán un mayor grado de aceptación de la diversidad en sus vecindarios, manteniendo el resto de las variables constantes.**
+
+---
+## Procesos de socialización política de actitudes
+
+### Socialización política en la escuela
+
+* Conocimiento cívico y funcionamiento de la sociedad: socialización de valores y normas comunes
+
+* Espacios de discusión y debate en las salas de clase: exposición al mundo real de los problemas sociales y políticos
+--
+<br>
+
+**H3: Estudiantes que poseen un mayor conocimiento cívico presentan un mayor grado de aceptación de la diversidad en sus vecindarios, manteniendo el resto de las variables constantes.**
+
+**H4: Estudiantes que perciben una mayor apertura a la discusión en sus aulas presentan un mayor grado de aceptación de la diversidad en sus vecindarios, manteniendo el resto de las variables constantes.**
+
+**H5: El proceso de socialización escolar permite moderar la influencia de los recursos socioeconómicos y las actitudes de los apoderados en las actitudes de los estudiantes hacia la aceptación de la diversidad en sus vecindarios.**
+
+---
+## Procesos de socialización política de actitudes
+
+### Implicancias del vecindario en los procesos de socialización
+
+* Segregación urbana en el contexto chileno
+
+* Competencia en el mercado laboral y en el acceso a recursos culturales y sociales
+--
+<br>
+
+**H6: Estudiantes que viven en vecindarios con una mayor proporción de personas que se identifican con alguna etnia presentan un menor grado de aceptación de la diversidad en sus vecindarios, manteniendo el resto de las variables constantes.**
+
+**H7: Estudiantes que viven en vecindarios con una mayor proporción de población inmigrante presentan un menor grado de aceptación de la diversidad en sus vecindarios, manteniendo el resto de las variables constantes.**
+
+**H8: Estudiantes que viven en vecindarios con un mayor promedio de escolaridad presentan un mayor grado de aceptación de la diversidad en sus vecindarios, manteniendo el resto de las variables constantes.**
+
+---
+## Hipótesis
+.center[![:scale 75%](images/modelo-teorico.png)]
+
+.center[Preregistro de hipótesis: https://doi.org/10.17605/OSF.IO/URPZQ]
+
+---
+## Metodología
+
+.pull-left-wide[
+.center[![:scale 100%](images/estudio-agencia.jpg)]
+]
+
+
+.pull-right-narrow[
+Primer Estudio de Formación Ciudadana de 2017
+
+Realizado por la Agencia de Calidad de la Educación
+
+Estudiantes y apoderados
+
+]
+
+
+---
+
+#### Variable dependiente
+
+.center[![:scale 90%](graphs/div_est.png)]
+
+---
+
+#### Variable dependiente
+
+.center[![:scale 90%](graphs/ind_est.png)]
+
+Alpha de Cronbach = 0.887
+
+---
+### Variables independientes
+
+.pull-left[
+.content-box-red[
+.espaciosimplelineas[
+### Familia
+
+Nivel educacional de los padres
+
+Cantidad de libros en el hogar
+
+Actitudes de los apoderados
+]
+]
+]
+.pull-right[
+.content-box-green[
+### Escuela
+
+Conocimiento cívico
+
+Espacios de discusión en la sala de clases
+<br>
+<br>
+
+]
+]
+
+.center[
+.content-box-yellow[
+.espaciosimplelineas[
+### Territorio
+Proporción de personas que se identifican con alguna etnia
+
+Proporción de personas de origen migrante
+
+Promedio de escolaridad
+]
+]
+]
+
+---
+
+.pull-left-narrow[
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+## Resultados
+N = 4801
+
+Escuelas = 231
+
+ICC = 0.012
+
+R2 = 0.03
+]
+.pull-right-wide[
+
+.center[![:scale 89%](graphs/plot1.png)]
+]
+
+---
+.pull-left[
+.center[![:scale 76%](graphs/prev_interac.png)]
+]
+.pull-right[
+.center[![:scale 100%](graphs/interac.png)]
+]
+---
+
+### ¿En qué medida los distintos procesos de socialización son capaces de influir en las actitudes hacia la diversdiad en su vecindario de las y los jóvenes estudiantes chilenos?
+
+En general, la transmisión intergeneracional de actitudes es lo que prima dentro de la familia. **Las actitudes de los padres son las influyen en las actitudes de los estudiantes**. No se observan diferencias según condiciones socioeconómicas de la familia
+
+Dentro de **la escuela**, el conocimiento cívico de los estudiantes y los espacios de discusión dentro de las aulas **influyen positivamente en la construcción de ciudadanos más tolerantes**. Además, **los espacios de discusión influyen en la transmisión intergeneracional**.
+
+Por lo tanto, se plantea como esencial para las escuelas y el sistema educativo en su conjunto **fomentar los espacios de discusión, el pluralismo de ideas y la convivencia**, para así garantizar para todos/as los estudiantes -ciudadanos futuros- la presencia de actitudes tolerantes hacia los grupos sociales que son distintos a sí mismos.
+
+---
+# Limitaciones
+
+* Primer estudio de formación ciudadana del año **2017**
+
+* Poca varianza de la variable dependiente ¿es la mejor forma de medición?
+
+* Datos CENSO 2017 a nivel comunal
+
+* El Territorio como proceso de socialización.
+
+--
+
+# Proyecciones
+
+* Aún así hay efectos significativos importantes dentro de la escuela
+
+* Niveles de medición territorial
+
+* Otras características contextuales 
+
+---
+class: inverse, middle, center
+
+# Muchas gracias!
+
+---
+
+class: middle title-slide
+
+
+.pull-left[
+
+
+.center[
+![:scale 100%](images/mcs.png)
+
+]
+]
+
+
+
+.pull-right[
+
+.content-box-purple[
+.center[
+
+## Aceptar la diversidad en el vecindario
+]
+
+----
+.center[
+#### Procesos de Socialización política de actitudes hacia la diversidad social en estudiantes chilenos
+]
+]
+]
+
+.center[
+
+### Kevin Carrasco Quintanilla
+
+Examen para optar al título de Sociólogo y Magíster en Ciencias Sociales
+
+Profesor guía: Juan Carlos Castillo
+
+Profesores informantes: Nicolás Angelcos & 
+Pablo Pérez
+.red[ 30 de Marzo 2023
+]
+
+]
