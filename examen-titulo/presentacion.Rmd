@@ -71,100 +71,234 @@ class: animated, fadeIn
 
 --
 
-### Educación ciudadana y Políticas educativas
 
-* Educación ciudadana en Chile
+.pull-left[
 
-* Nueva ley de Formación Ciudadana 2018
+* Participación política en Chile
 
+* Cuestionamiento a la democracia e instituciones políticas
+
+* Baja participación política juvenil
+]
 --
+
+
+
+.pull-right[
+![:scale 100%](images/protest.png)
+]
+
+---
+## Contexto
+
+
+.pull-left[
+
+* Más allá de la formación cívica: **Actitudes, integración, cohesión social**
+
+* Nueva ley de formación ciudadana
+
+* Socialización política escolar
+
+* Socialización política familiar
+
+]
+.pull-right[
+![:scale 100%](images/protest.png)
+]
+
+---
 
 ### Esta investigación
 
-* El incremento de la diversidad social es un desafío para los Estados-nación a nivel global
+* Incremento de la diversidad en Chile: **Migrantes**
 
-* Desafío específico para los sistemas educacionales
-
-* Aceptar la diversidad en el vecindario.
+.center[
+![:scale 75%](images/migrantes.png)
+]
 
 ---
+### Esta investigación
+
+* Incremento de la diversidad en Chile: **Etnias**
+
+.center[
+![:scale 77%](images/etnias.png)
+]
+fuente: [síntesis de resultados censo 2017](http://www.censo2017.cl/descargas/home/sintesis-de-resultados-censo2017.pdf)
+---
+### Esta investigación
+
+* Incremento de la diversidad en Chile: **clase**
+
+.center[
+![:scale 46%](images/pobreza-rm.jpg)
+]
+
+---
+
 class: inverse, center, middle
 
-## .yellow[¿En qué medida los distintos procesos de socialización son capaces de influir en las actitudes hacia la diversidad en su vecindario de las y los estudiantes chilenos?
+## .yellow[¿En qué medida los distintos procesos de socialización son capaces de influir en las actitudes hacia la diversidad de las y los estudiantes chilenos?
+]
+
+---
+
+class: inverse, left, middle
+
+### Aceptar la diversidad en el vecindario. Procesos de Socialización política de actitudes hacia la diversidad social en estudiantes chilenos
+
+1. Aceptación de la diversidad
+
+2. Socialización de la aceptación de la diversidad
+
+  a. Socialización política escolar
+  
+  b. Socialización política familiar
+  
+  c. Implicancias del territorio
+  
+3. Metodología
+
+4. Resultados
+
+5. Conclusiones
+
+---
+
+class: inverse, left, middle
+
+### Aceptar la diversidad en el vecindario. Procesos de Socialización política de actitudes hacia la diversidad social en estudiantes chilenos
+
+1. **Aceptación de la diversidad**
+
+2. Socialización de la aceptación de la diversidad
+
+  a. Socialización política escolar
+  
+  b. Socialización política familiar
+  
+  c. Implicancias del territorio
+  
+3. Metodología
+
+4. Resultados
+
+5. Conclusiones
+
+---
+
+## Aceptación de la diversidad
+
+* Exclusión, discriminación y prejuicios
+
+  *"Se establecen barreras entre sectores o clases a partir de la construcción de identidades, comunidades y la monopolización de oportunidades con el fin de excluir a otras personas de ese círculo."* (Parkin, 1984)
+  
+  *"se constituye al otro como una amenaza y adversario, quebrando la noción de un espacio común y dando un marco de confrontación y disputa a las relaciones ordinarias entre los habitantes de la ciudad."* (Araujo, 2019)
+
+
+--
+
+* ¿Por qué **aceptar la diversidad**?
+
+    *"Aprender a aceptar y valorar la creciente diversidad social que se origina a partir de los procesos de modernización y globalización permite ayudar a las personas a desarrollar habilidades para la vida en sociedad, como la empatía y la tolerancia. De esta forma se promueve una sociedad más inclusiva, respetuosa y equitativa, donde se acepte a las personas por quienes son, independientemente de sus diferencias culturales, étnicas, religiosas o de clase".*
+
+---
+
+## Aceptación de la diversidad
+
+### .center[¿Te molestaría tener vecinos que pertenecieran a los siguientes grupos?
+  
+  a. Personas de origen indígena
+  
+  b. Personas que vienen de otro país
+  
+  c. Personas que vienen de otra región del país
+  
+  d. Personas de una orientación sexual distinta a la tuya
+  
+  e. Personas de una religión distinta a la tuya
+  
+  f. Personas de una clase social distinta a la tuya
+  
+  g. Personas de un color de piel distinto a la tuya
+
 ]
 ---
+class: inverse, left, middle
 
-### Aceptar la diversidad en el vecindario
+### Aceptar la diversidad en el vecindario. Procesos de Socialización política de actitudes hacia la diversidad social en estudiantes chilenos
 
-* Identidades y Cohesión social: la identidad social define y evalúa el autoconcepto de uno mismo y cómo será tratado y pensado por los demás. Al compararse, se preocupan de que su propio grupo sea distintivo, diferenciado y evaluado más favorablemente.
+1. Aceptación de la diversidad
 
---
+2. **Socialización de la aceptación de la diversidad**
 
-* Desigualdades interaccionales: Se constituye al *otro* como una amenaza y adversario, quebrando la noción de espacio común y generando un marco de confrontación y disputa.
+  a. Socialización política escolar
+  
+  b. Socialización política familiar
+  
+  c. Implicancias del territorio
+  
+3. Metodología
 
---
+4. Resultados
 
-* Cierre social entre sectores o clases a partir de identidades: Se establecen barreras entre sectores o clases a partir de la construcción de identidades, comunidades y la monopolización de oportunidades con el fin de excluir a otras personas de ese círculo.
-
---
-
-La **discriminación** como una práctica diferenciada basada en prejuicios e ideologías racistas sobre la superioridad de una mayoría y la inferioridad de una minoría. No obstante, reducir o intensificar ciertas actitudes tendrá poco efecto los prejuicios e ideologías, por lo que **el foco debe estar en los mecanismos sociales que los generan**.
+5. Conclusiones
 
 ---
 
-## Procesos de socialización política de actitudes
+## Socialización de la aceptación de la diversidad
 
 --
-
-### Socialización política familiar
-
-* Condiciones socioeconómicas objetivas de la familia en el proceso de adquisición de valores y prácticas democráticas.
-
-* Teoría del aprendizaje social y transmisión intergeneracional de actitudes.
 
 <br>
---
-**H1: Estudiantes que provienen de familias con mayores recursos socioeconómicos poseen un mayor grado de aceptación de la diversidad en sus vecindarios, manteniendo el resto de las variables constantes.**
-
-**H2: Estudiantes que provengan de familias en que sus padres acepten en mayor medida que distintos grupos sociales vivan en sus vecindarios, poseerán un mayor grado de aceptación de la diversidad en sus vecindarios, manteniendo el resto de las variables constantes.**
-
----
-## Procesos de socialización política de actitudes
 
 ### Socialización política en la escuela
 
-* Conocimiento cívico y funcionamiento de la sociedad: socialización de valores y normas comunes
+  * "El conocimiento cívico refiere a la información cívica y ciudadana aprendida que los estudiantes utilizan cuando se involucran en tareas más complejas que les ayudan a entender de mejor forma el mundo político" (Carstens & Schulz, 2018)
 
-* Espacios de discusión y debate en las salas de clase: exposición al mundo real de los problemas sociales y políticos
---
-<br>
+  * "En las aulas donde los estudiantes están expuestos al mundo real de los problemas políticos, por medio del discurso y el debate tienen la oportunidad de luchar por cuestiones políticas y sociales, aprendiendo el elemento vital de la democracia participativa" (Campbell, 2008).
 
-**H3: Estudiantes que poseen un mayor conocimiento cívico presentan un mayor grado de aceptación de la diversidad en sus vecindarios, manteniendo el resto de las variables constantes.**
-
-**H4: Estudiantes que perciben una mayor apertura a la discusión en sus aulas presentan un mayor grado de aceptación de la diversidad en sus vecindarios, manteniendo el resto de las variables constantes.**
-
-**H5: El proceso de socialización escolar permite moderar la influencia de los recursos socioeconómicos y las actitudes de los apoderados en las actitudes de los estudiantes hacia la aceptación de la diversidad en sus vecindarios.**
-
----
-## Procesos de socialización política de actitudes
-
-### Implicancias del vecindario en los procesos de socialización
-
-* Segregación urbana en el contexto chileno
-
-* Competencia en el mercado laboral y en el acceso a recursos culturales y sociales
---
-<br>
-
-**H6: Estudiantes que viven en vecindarios con una mayor proporción de personas que se identifican con alguna etnia presentan un menor grado de aceptación de la diversidad en sus vecindarios, manteniendo el resto de las variables constantes.**
-
-**H7: Estudiantes que viven en vecindarios con una mayor proporción de población inmigrante presentan un menor grado de aceptación de la diversidad en sus vecindarios, manteniendo el resto de las variables constantes.**
-
-**H8: Estudiantes que viven en vecindarios con un mayor promedio de escolaridad presentan un mayor grado de aceptación de la diversidad en sus vecindarios, manteniendo el resto de las variables constantes.**
 
 ---
 ## Hipótesis
-.center[![:scale 75%](images/modelo-teorico.png)]
+
+.center[![:scale 65%](images/modelo-teorico1.png)]
+
+---
+## Socialización de la aceptación de la diversidad
+
+<br>
+
+### Socialización política familiar
+
+* Importancia de las condiciones socioeconómicas objetivas de la familia en el proceso de adquisición de valores y prácticas democráticas (Verba, et. al 1993; Miranda, et. al 2018)
+
+* "La teoría del aprendizaje social implica que las actitudes y comportamientos de los padres inciden sobre los intereses y modos de comportamiento de sus hijos" (Bandura, 1969).
+
+
+---
+## Hipótesis
+
+.center[![:scale 65%](images/modelo-teorico2.png)]
+---
+## Hipótesis
+
+.center[![:scale 65%](images/modelo-teorico3.png)]
+---
+## Socialización de la aceptación de la diversidad
+
+### Implicancias del territorio en los procesos de socialización
+
+* "Una mayor interacción entre grupos distintos podría reforzar los prejuicios" (Putnam, 2007)
+
+* "La marcada segregación urbana del contexto chileno que sienta las bases para la consolidación de vecindarios homogéneos es bastante desfavorable para el contacto intergrupal positivo y la reducción de prejuicios" (Garreton, 2017)
+
+* En cada vecindario, los distintos patrones de segregación están asociados con grandes diferencias en el acceso al mercado laboral y a otros recursos culturales y sociales (Fernández et al., 2016). Así, según Baldassarri & Abascal (2020), la competencia entre minorías es mayor en los lugares donde estas son más numerosas.
+
+---
+## Hipótesis
+.center[![:scale 65%](images/modelo-teorico4.png)]
 
 .center[Preregistro de hipótesis: https://doi.org/10.17605/OSF.IO/URPZQ]
 
@@ -274,7 +408,7 @@ R2 = 0.03
 ]
 ---
 
-### ¿En qué medida los distintos procesos de socialización son capaces de influir en las actitudes hacia la diversdiad en su vecindario de las y los jóvenes estudiantes chilenos?
+### ¿En qué medida los distintos procesos de socialización son capaces de influir en las actitudes hacia la diversidad de las y los estudiantes chilenos?
 
 En general, la transmisión intergeneracional de actitudes es lo que prima dentro de la familia. **Las actitudes de los padres son las influyen en las actitudes de los estudiantes**. No se observan diferencias según condiciones socioeconómicas de la familia
 
@@ -290,8 +424,6 @@ Por lo tanto, se plantea como esencial para las escuelas y el sistema educativo 
 * Poca varianza de la variable dependiente ¿es la mejor forma de medición?
 
 * Datos CENSO 2017 a nivel comunal
-
-* El Territorio como proceso de socialización.
 
 --
 
