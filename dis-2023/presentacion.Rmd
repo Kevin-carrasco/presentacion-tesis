@@ -457,6 +457,8 @@ class: inverse, middle, center
 
 # Muchas gracias!
 
+### Tesis disponible acá: https://kevin-carrasco.github.io/aceptar-diversidad
+
 ---
 
 class: middle title-slide
